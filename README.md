@@ -2,7 +2,8 @@
 
 I predominantly work as a Frontend Developer, using React, NextJs, TypeScript and Tailwind CSS. I love all aspects of web development and enjoy coding as a hobby as well as a profession.
 
-<a href="https://www.frontendmentor.io/profile/jadetrue" target="blank"><img src="https://img.shields.io/badge/Frontend Mentor-jadetrue-informational?style=for-the-badge&logo=frontendmentor" alt="Frontend Mentor" /></a>
+<a href="https://www.frontendmentor.io/profile/jadetrue" target="_blank"><img src="https://img.shields.io/badge/Frontend Mentor-jadetrue-informational?style=for-the-badge&logo=frontendmentor" alt="Frontend Mentor" /></a><br />
+<a href="https://www.codecademy.com/profiles/jadetrue" target="_blank"><img src="https://img.shields.io/badge/Codecademy-jadetrue-informational?FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" alt="Codecademy" /></a>
 
 ### What I use
 
