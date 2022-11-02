@@ -1,4 +1,4 @@
-### Hey, I'm Jade and welcome to my GitHub! 👋
+### Hey, I'm Jade! 👋
 
 I predominantly work as a Frontend Developer, using React, NextJs, TypeScript and Tailwind CSS. I love all aspects of web development and enjoy coding as a hoby as well as a profession.
 
